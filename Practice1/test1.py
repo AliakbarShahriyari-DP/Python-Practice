@@ -29,7 +29,7 @@
 #         print("*", end="")
 #     print()
 
-size = 5
+size = 10
 
 for i in range(0,size):
     print(" " * (size - i), end=" ")
